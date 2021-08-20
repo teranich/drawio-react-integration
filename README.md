@@ -1,2 +1,8 @@
-My way to inegrate full drawio editor into react project.
+The inegration full drawio editor into react project.
+
+
+```git clone --recurse-submodules https://github.com/teranich/drawio-react-integration.git```
+
+```yarn install```
+```yarn start```
 
