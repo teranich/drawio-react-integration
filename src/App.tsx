@@ -2,7 +2,6 @@ import React, { useEffect, Suspense, useState } from 'react';
 import './App.scss';
 import { observer } from 'mobx-react';
 import { EditorComponent } from './Editor';
-import { MxCell } from './mxgraph';
 import styled from 'styled-components';
 
 const Content = styled.div`
