@@ -1,4 +1,4 @@
-The inegration full drawio editor into react project.
+##The integration for full draw io editor into react project
 
 
 ```git clone --recurse-submodules https://github.com/teranich/drawio-react-integration.git```
@@ -6,3 +6,4 @@ The inegration full drawio editor into react project.
 ```yarn install```
 ```yarn start```
 
+![screenshot](screenshot.png)
